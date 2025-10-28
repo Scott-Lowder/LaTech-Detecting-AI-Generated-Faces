@@ -1,1 +1,13 @@
-# LaTech-Detecting-AI-Generated-Faces
+# LaTech-Detecting-AI-Generated-Faces Project Proposal
+
+David Castilla, Scott Lowder, Bennett Volanth, and Franco Zabaleta
+October 9th, 2025
+Detecting AI-Generated Faces
+The problem we will investigate is the growing difficulty of distinguishing real human faces from AI-generated or deepfake images. AI media creators, such as Tilly Norwood, an AI actress stirring up Hollywood, and Sora 2, a video-generation tool, have shown it is easier than ever to produce convincing real content, raising concerns about misinformation, digital identity manipulation, and media authenticity. This issue is both current and socially relevant, as AI-generated content increasingly appears in news, social media, and entertainment, making automated detection tools critical.
+Our group will examine literature on deepfake generation techniques, GAN-based image synthesis, and existing detection methods, including convolutional neural network (CNN) architectures and approaches like Grad-CAM. Research on dataset biases and generalization challenges in deepfake detection will also help choose our approach.
+Our data source will be the “140K Real and Fake Faces” dataset available on Kaggle, which contains about 70,000 real images and 70,000 AI-generated faces. These images cover a large number of demographics and styles, giving a balanced and diverse dataset for training and evaluation.
+For our method, we propose designing and training custom CNN architectures for binary classification of real vs. fake faces. We will experiment with different architectural choices such as convolutional depth, kernel sizes, and normalization layers to develop models that can efficiently capture the subtle differences between real and AI-generated images. We will compare the performance of our custom models against standard architectures like ResNet or EfficientNet to evaluate improvements. Our goal is to build models that generalize well to unseen deepfake styles and to interpret which facial regions most influence their decisions.
+Evaluation will include both qualitative and quantitative analyses. Qualitatively, we expect visualizations such as confusion matrices, Grad-CAM heatmaps, and feature importance plots. Quantitatively, we will measure accuracy, precision, and ROC-AUC.
+Our planned milestones are: (10/25) literature review and dataset preprocessing; (11/14) model training, baseline evaluation, and hyperparameter tuning; (12/2) robustness testing, interpretability analysis, and final report preparation. The labor division will be one member responsible for data and preprocessing, one for model implementation and training, one for evaluation and analysis, and one for visualization and report compilation.
+
+
