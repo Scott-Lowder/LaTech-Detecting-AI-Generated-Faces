@@ -1,4 +1,3 @@
----
 ### Project Proposal  
 **Date:** October 9th, 2025  
 ## 1. Project Overview  
@@ -28,10 +27,8 @@ These images cover a wide range of demographics and styles, providing a balanced
 
 ## 4. Methodology  
 
-We propose designing and training custom **CNN architectures** for binary classification of real vs. fake faces.  
-We will experiment with architectural variations such as convolutional depth, kernel size, and normalization layers to improve performance and interpretability.  
-
-To benchmark our approach, we will compare our models against standard architectures like **ResNet** and **EfficientNet**.  
+We are training the ConvNeXt model on a kaggle dataset with 70,000 real and 70,000 AI-generated datasets. We'll implement different approaches of further finetuning our own refined datasets which use images of Sora generated faces. We'll then evaluate the models perfromance after being fintuned to recognize this new form of ai generated content.  
+We will experiment with architectural variations such as convolutional depth, kernel size, and normalization layers to improve performance and interpretability.
 Our goal is to develop models that generalize well to unseen deepfake styles and to interpret which facial regions most influence classification decisions.
 
 ---
