@@ -1,12 +1,13 @@
 # LaTech-Detecting-AI-Generated-Faces  
-### Project Proposal  
-
 **Team Members:**  
 David Castilla, Scott Lowder, Bennett Volanth, and Franco Zabaleta  
-**Date:** October 9th, 2025  
+
+https://colab.research.google.com/drive/1DL3cllWy6ZY7DKrmeSuK8VFBfZRqbmH0#scrollTo=gguTQOPv6Rdb
+
 
 ---
-
+### Project Proposal  
+**Date:** October 9th, 2025  
 ## 1. Project Overview  
 
 The problem we will investigate is the growing difficulty of distinguishing real human faces from AI-generated or deepfake images.  
