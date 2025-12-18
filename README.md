@@ -12,7 +12,7 @@ Scott Lowder:
 - DatasetPreprocessingScriptV2.ipynb (preprocessing code using Google Media Pipe)
 - ResNet_DeepLearningModel.ipynb (contains ResNet training code, finetuning, and 5-fold cross validation).
 - RAW Sora Face Dataset (screenshots from Sora).
-- Kaggle Results (Graphs / Best Models).
+- Processed Kaggle Results (Graphs / Best Models).
 
 Franco Zabaleta:
 - DatasetPreprocessingScriptV1.ipynb (original preprocessing code).
@@ -21,6 +21,7 @@ Franco Zabaleta:
 
 Bennett Volanth:
 - ConvNextDeepLearningModel.ipynb (original model we used during our discover phase).
+- Kaggle Results (Graphs / Best Models).
 
 David Castilla:
 - Github page setup and documentation.
