@@ -1,6 +1,9 @@
 # LaTech-Detecting-AI-Generated-Faces  
 **Team Members:**  
-David Castilla, Scott Lowder, Bennett Volanth, and Franco Zabaleta  
+David Castilla, Scott Lowder, Bennett Volanth, and Franco Zabaleta
+
+## Final Report for Project:
+[View Final Report (PDF)](./Team_LaTech_Final_Report.pdf)
 
 ## All the files/code for the project is in the Google Drive below.
 
